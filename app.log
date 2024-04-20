@@ -1,0 +1,5 @@
+2024-04-20 18:24:51,722 - INFO - This is an info message
+2024-04-20 18:24:51,722 - WARNING - This is a warning message
+2024-04-20 18:24:51,722 - ERROR - This is an error message
+2024-04-20 18:24:51,722 - CRITICAL - This is a critical message
+2024-04-20 18:29:27,488 - INFO - Stop signal received (SIGINT). Exiting...

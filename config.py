@@ -1,0 +1,7 @@
+mongo = "mongodb+srv://akganthesm:Veetel992@commentdatabase.usjxbwa.mongodb.net/?retryWrites=true&w=majority&appName=CommentDatabase"
+api_id = 29268693
+api_hash = "1ad7c3f7c78b8ca2a1888b757764ae03"
+OWNER_ID = 6621610889
+SUDO = 7101447664
+LOG_GROUP = -1001903774899
+session = "BQFoUiwAEiUCyC_jNPwRHmbMPvrKCXfSDnt2YG8_ZD-LL9hPNh4biBpxvj9GpzBRGUzLhmADyqqeTgef3lsSq4EJvMK6Oe49IV6ht5dFoIGei0y9rQn7J9KnTUB9LQgV3GDrlMkLbXma-CmHljsmzKJLUu4CKX620Xg78859rMUYEBl_2tEqdWpnMaw3O9JJIblINOOIA7cVFz2g3FbcAEySYGJOXaRF80H-FLFzBiXzr46vDLI3N_zdblhMDK8XxcAbiCgayiN7VeXhvi2hwZYd7XL_pkJKnsEdeZwiYsoktPQTCxYVWRj107_WyWQnS-BTQoGq1toO48ehTxUeV4EceQ9UYQAAAAGKrcOJAA"
